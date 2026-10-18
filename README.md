@@ -4,7 +4,7 @@ An interactive Tableau dashboard built on the results of my SQL data exploration
 
 **Interactive dashboard:** [View on Tableau Public]([paste-your-link-here](https://public.tableau.com/app/profile/asli.ahmedova/viz/Covid_dashboard_17923298625910/Dashboard1))
 
-![Dashboard preview](dashboard.png)
+![Dashboard preview](Dashboard 1.png) 
 
 ## Tools
 
@@ -44,14 +44,6 @@ The data covers the period up to the end of April 2021.
 - About **150.6 million** cases and **3.18 million** deaths worldwide, a death percentage of about **2.1%**
 - **Europe** had the highest total death count of all continents, followed by North America and South America
 - **Andorra** had the highest share of its population infected, at about **17.1%**
-
-## Running it yourself
-
-1. Load the COVID data into MySQL (see my SQL data exploration project).
-2. Install the libraries: `pip install pandas sqlalchemy pymysql openpyxl`
-3. In `tableau_export.py`, replace `user:password` with your own MySQL username and password.
-4. Run `python tableau_export.py` to create the four Excel files.
-5. Connect them in Tableau Public.
 
 ## Lessons learned
 
