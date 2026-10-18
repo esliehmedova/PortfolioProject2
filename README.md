@@ -2,9 +2,9 @@
 
 An interactive Tableau dashboard built on the results of my SQL data exploration project. It shows global COVID-19 totals, deaths by continent, and how much of each country's population was infected, on a map and over time.
 
-**Interactive dashboard:** [View on Tableau Public]([paste-your-link-here](https://public.tableau.com/app/profile/asli.ahmedova/viz/Covid_dashboard_17923298625910/Dashboard1))
+**Interactive dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/asli.ahmedova/viz/Covid_dashboard_17923298625910/Dashboard1)
 
-![Dashboard preview](Dashboard 1.png) 
+  ![Dashboard preview](Dashboard%201.png)
 
 ## Tools
 
